@@ -1,7 +1,7 @@
 package com.bandiClasses.DMS.Models;
 
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 
 /**
  * @author S556186
